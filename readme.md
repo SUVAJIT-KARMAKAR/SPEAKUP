@@ -32,7 +32,7 @@ Git clone or fork the repository
 Install all the required packages and modules
 ```bash
     pip install -r requirements.txt
-``
+```
 
 
 ## PROJECT CONTRIBUTION
@@ -42,5 +42,5 @@ Contributions are always welcome!
 
 ## AUTHOR
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@SUVAJIT-KARAMAR](https://github.com/SUVAJIT-KARMAKAR)
 
